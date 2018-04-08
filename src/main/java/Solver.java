@@ -1,6 +1,6 @@
 public class Solver {
 
-    public static int solve(int a, int b) {
+    public int solve(int a, int b) {
         return a * a + b;
     }
 }
